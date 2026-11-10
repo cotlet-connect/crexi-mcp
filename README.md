@@ -106,6 +106,7 @@ Crexi has no official MCP server. Cotlet.dev is a hosted MCP server that works i
 - [Crexi on Cotlet.dev](https://cotlet.dev/integrations/crexi-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=crexi&utm_content=find)
 - [PyPI package crexi-mcp](https://pypi.org/project/crexi-mcp/)
 - [LobeHub](https://lobehub.com/mcp/cotlet-connect-crexi-mcp)
+- [Odel](https://odel.app/modules/cotlet/crexi)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-crexi-to-ai-agents-guide)
 
 ## Also works with
